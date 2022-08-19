@@ -1,3 +1,3 @@
 # ansible_tutorial
 
-Its very nice today!
+what a nice day!
